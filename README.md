@@ -1,5 +1,10 @@
 # RSpecial
 
+> **This project is retired.** RSpecial is part of
+> [Assay](https://github.com/rubyworks/assay) since version 0.5:
+> `require 'assay/rspec'`. The gem remains on RubyGems and the code remains
+> here for reference.
+
 [Homepage](http://rubyworks.github.com/rspecial) /
 [Report Issue](http://github.com/rubyworks/rspecial/issues) /
 [Source Code](http://github.com/rubyworks/rspecial)
